@@ -1,0 +1,27 @@
+{
+  "name": "mipush",
+  "version": "1.0.0",
+  "description": "XiaoMi push for Nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liees/mipush.git"
+  },
+  "keywords": [
+    "push",
+    "xiaomi",
+    "nodejs"
+  ],
+  "author": "liees",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liees/mipush/issues"
+  },
+  "homepage": "https://github.com/liees/mipush#readme"
+}
